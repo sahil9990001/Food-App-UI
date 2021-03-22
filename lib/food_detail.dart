@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//comment added
+//Food Detail Page
 class FoodDetail extends StatefulWidget {
   final heroTag;
   final foodName;
